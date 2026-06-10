@@ -6,5 +6,5 @@
 > It sort of like an FTP =S3 (S3 it simple mean to store the vast amount of images, backups,logs, and documents on cloud.)
 
 > [!IMPORTANT]
-- https://0xmr.qzz.io/posts/s3/
-- https://hunter-zone.github.io/checklist/enumeration/cloud/aws.html
+> - https://0xmr.qzz.io/posts/s3/
+> - https://hunter-zone.github.io/checklist/enumeration/cloud/aws.html   
